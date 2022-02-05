@@ -1,0 +1,1 @@
+{"name":"ibBTC (Wormhole)","symbol":"wibBTC","logoURI":"https://registry.saber.so/token-icons/ibbtc.svg","decimals":8,"address":"Bzq68gAVedKqQkQbsM28yQ4LYpc2VComDUD9wJBywdTi","chainId":101,"tags":["saber-mkt-btc","wormhole-v2"],"extensions":{"coingeckoId":"bitcoin","source":"wormhole-v2","sourceUrl":"https://wormholebridge.com/#/transfer","currency":"BTC"}}
