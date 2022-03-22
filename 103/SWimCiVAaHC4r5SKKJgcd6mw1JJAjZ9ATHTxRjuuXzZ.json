@@ -1,1 +1,1 @@
-{"name":"Token SWim","symbol":"SWimC","decimals":6,"address":"SWimCiVAaHC4r5SKKJgcd6mw1JJAjZ9ATHTxRjuuXzZ","chainId":103}
+{"name":"Token swim (IOU)","symbol":"iouswimn","decimals":6,"address":"SWimCiVAaHC4r5SKKJgcd6mw1JJAjZ9ATHTxRjuuXzZ","chainId":103,"tags":["quarry-iou"],"extensions":{"underlyingTokens":["swimnKEr963p7EbCjsSnBCoYwytuZHPm3zbq6fKLHXb"],"source":"quarry-iou"}}

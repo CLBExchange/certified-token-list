@@ -1,1 +1,1 @@
-{"name":"Token DkMN","symbol":"DkMNc","decimals":9,"address":"DkMNcfXHBkGyehdCBWdmYrW83FcorbCd89FZ9k7RDuh7","chainId":103}
+{"name":"Token 5YwU (IOU)","symbol":"iou5YwUk","decimals":9,"address":"DkMNcfXHBkGyehdCBWdmYrW83FcorbCd89FZ9k7RDuh7","chainId":103,"tags":["quarry-iou"],"extensions":{"underlyingTokens":["5YwUkPdXLoujGkZuo9B4LsLKj3hdkDcfP4derpspifSJ"],"source":"quarry-iou"}}

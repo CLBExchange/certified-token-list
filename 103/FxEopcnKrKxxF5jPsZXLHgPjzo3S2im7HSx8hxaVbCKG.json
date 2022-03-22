@@ -1,1 +1,1 @@
-{"name":"Token FxEo","symbol":"FxEop","decimals":6,"address":"FxEopcnKrKxxF5jPsZXLHgPjzo3S2im7HSx8hxaVbCKG","chainId":103}
+{"name":"Token G2Ft (IOU)","symbol":"iouG2Ftt","decimals":6,"address":"FxEopcnKrKxxF5jPsZXLHgPjzo3S2im7HSx8hxaVbCKG","chainId":103,"tags":["quarry-iou"],"extensions":{"underlyingTokens":["G2Ftt9yakMXgbHP3r5fzGScctG9kXPEbKHPvJn11M3s3"],"source":"quarry-iou"}}

@@ -1,1 +1,1 @@
-{"name":"Token 91kV","symbol":"91kVK","decimals":6,"address":"91kVKjUe2n6KiyU2CX8gYoycF3GrjTgCf92eDa4HD1VX","chainId":103}
+{"name":"Token 2jmz (IOU)","symbol":"iou2jmzZ","decimals":6,"address":"91kVKjUe2n6KiyU2CX8gYoycF3GrjTgCf92eDa4HD1VX","chainId":103,"tags":["quarry-iou"],"extensions":{"underlyingTokens":["2jmzZmwSnL9B6WRt9ZG1ayK8A2iQsNbvz3XR8KnXSheB"],"source":"quarry-iou"}}
