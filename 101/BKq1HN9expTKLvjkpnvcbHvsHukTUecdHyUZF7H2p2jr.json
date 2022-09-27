@@ -1,1 +1,1 @@
-{"name":"Token BKq1","symbol":"BKq1H","decimals":9,"address":"BKq1HN9expTKLvjkpnvcbHvsHukTUecdHyUZF7H2p2jr","chainId":101}
+{"name":"Lifinity mSOL-USDC","symbol":"mSOL-USDC LP","logoURI":"https://raw.githubusercontent.com/marinade-finance/marinade-token-list/main/assets/lifinity.png","decimals":9,"address":"BKq1HN9expTKLvjkpnvcbHvsHukTUecdHyUZF7H2p2jr","chainId":101,"tags":["lifinity-lp"],"extensions":{"website":"https://lifinity.io/","underlyingTokens":["mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So","EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"],"source":"lifinity"}}
