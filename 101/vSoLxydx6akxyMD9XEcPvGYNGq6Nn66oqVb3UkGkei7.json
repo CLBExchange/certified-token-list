@@ -1,1 +1,1 @@
-{"name":"Token vSoL","symbol":"vSoLx","decimals":9,"address":"vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7","chainId":101}
+{"name":"The Vault","symbol":"vSOL","logoURI":"https://bafkreig55mf3lazzbgndiqyqvdmchdsykvvebww7cqlws6ywgog5xfdzta.ipfs.nftstorage.link/","decimals":9,"address":"vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7","chainId":101,"tags":["saber-mkt-sol"],"extensions":{"coingeckoId":"solana","source":"vault","currency":"SOL","sourceUrl":"https://thevault.finance"}}
