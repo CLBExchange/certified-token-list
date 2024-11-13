@@ -1,0 +1,1 @@
+{"name":"Coinbase Wrapped BTC","symbol":"cbBTC","logoURI":"https://ipfs.io/ipfs/QmZ7L8yd5j36oXXydUiYFiFsRHbi3EdgC4RuFwvM7dcqge","decimals":8,"address":"cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij","chainId":101,"tags":["saber-mkt-btc"],"extensions":{"coingeckoId":"coinbase-wrapped-btc","source":"cbbtc","currency":"BTC","sourceUrl":"https://www.coinbase.com/cbbtc/"}}
